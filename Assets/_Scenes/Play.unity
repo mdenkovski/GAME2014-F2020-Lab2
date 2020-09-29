@@ -312,15 +312,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3671976023700753201, guid: 441aece4b7f9b5d44bbb35eca7719113, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -353
+      value: -350
       objectReference: {fileID: 0}
     - target: {fileID: 3671976023700753201, guid: 441aece4b7f9b5d44bbb35eca7719113, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -200
+      value: -239
       objectReference: {fileID: 0}
     - target: {fileID: 3671976023700753201, guid: 441aece4b7f9b5d44bbb35eca7719113, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 700
+      value: 650
       objectReference: {fileID: 0}
     - target: {fileID: 3671976023700753201, guid: 441aece4b7f9b5d44bbb35eca7719113, type: 3}
       propertyPath: m_SizeDelta.y
@@ -637,15 +637,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7213564635151852150, guid: a52568fc09c5f4f47bed7da1e58f54fb, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 252
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 7213564635151852150, guid: a52568fc09c5f4f47bed7da1e58f54fb, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -200
+      value: -234
       objectReference: {fileID: 0}
     - target: {fileID: 7213564635151852150, guid: a52568fc09c5f4f47bed7da1e58f54fb, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 500
+      value: 450
       objectReference: {fileID: 0}
     - target: {fileID: 7213564635151852150, guid: a52568fc09c5f4f47bed7da1e58f54fb, type: 3}
       propertyPath: m_SizeDelta.y
@@ -727,6 +727,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LivesLabel: {fileID: 1717140143}
   ScoreLabel: {fileID: 1567254815}
+  scaler: {fileID: 1464160467}
+  scale: {x: 0, y: 0}
 --- !u!1 &1464160465
 GameObject:
   m_ObjectHideFlags: 0
